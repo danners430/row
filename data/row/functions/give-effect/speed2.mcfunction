@@ -1,0 +1,1 @@
+effect give @s speed 15 100

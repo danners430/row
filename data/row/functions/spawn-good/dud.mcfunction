@@ -1,0 +1,1 @@
+summon minecraft:creeper ^ ^2 ^3 {ExplosionRadius:0}

@@ -1,0 +1,1 @@
+loot give @s loot row:row/shirts

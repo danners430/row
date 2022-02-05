@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:command",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:oak_boat"
+          }
+        ],
+        "functions": [
+          {
+            "function": "minecraft:set_name",
+            "entity": "this",
+            "name": "Row row row your boat"
+          }
+        ]
+      }
+    ]
+  }
+  

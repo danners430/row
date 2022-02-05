@@ -1,1 +1,1 @@
-summon boat ~1 ~1 ~ {Type:oak,CustomName:'"Row row row your boat"'}
+loot spawn ~2 ~2 ~ loot row:row/boat_boat

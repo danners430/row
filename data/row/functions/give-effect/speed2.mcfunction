@@ -1,1 +1,1 @@
-effect give @s speed 15 100
+effect give @s minecraft:speed 15 100

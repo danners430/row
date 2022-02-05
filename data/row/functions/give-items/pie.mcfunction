@@ -1,1 +1,1 @@
-give @s pumpkin_pie 314
+give @s minecraft:pumpkin_pie 314

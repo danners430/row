@@ -1,0 +1,1 @@
+summon minecraft:elder_guardian ~ ~ ~5 {NoAI:1b}

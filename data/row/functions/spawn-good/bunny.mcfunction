@@ -6,6 +6,6 @@ execute as @s store result score @s bunny run data get entity @e[type=marker,tag
 
 kill @e[tag=BunnyMarker]
 
-execute at @s[scores={bunny=1}] run summon minecraft:rabbit ~ ~ ~3 {RabbitType:0}
-execute at @s[scores={bunny=2}] run summon minecraft:rabbit ~ ~ ~3 {RabbitType:5}
-execute at @s[scores={bunny=3}] run summon minecraft:rabbit ~ ~ ~3 {RabbitType:99}
+execute at @s[scores={bunny=1}] run summon minecraft:rabbit ^ ^ ^3 {RabbitType:0}
+execute at @s[scores={bunny=2}] run summon minecraft:rabbit ^ ^ ^3 {RabbitType:5}
+execute at @s[scores={bunny=3}] run summon minecraft:rabbit ^ ^ ^3 {RabbitType:99}

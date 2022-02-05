@@ -1,0 +1,1 @@
+give @s minecraft:enchanted_golden_apple 1

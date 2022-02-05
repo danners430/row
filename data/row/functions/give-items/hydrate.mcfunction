@@ -1,0 +1,1 @@
+give @s minecraft:honey_bottle 1

@@ -1,1 +1,1 @@
-effect give @s regeneration 10 50
+effect give @s minecraft:regeneration 10 50

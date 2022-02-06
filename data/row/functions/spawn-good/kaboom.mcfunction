@@ -1,1 +1,1 @@
-summon minecraft:creeper ~ ~ ~ {Fuse:0,ExplosionRadius:0,ignited:1,ActiveEffects:[{Id:3,Duration:300,Amplifier:3,ShowParticles:0b}]}
+summon minecraft:creeper ~ ~ ~ {Fuse:0,ExplosionRadius:0,ignited:1}

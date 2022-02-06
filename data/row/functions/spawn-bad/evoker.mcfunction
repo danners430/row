@@ -1,4 +1,4 @@
-summon minecraft:evoker ~ ~5 ~ {CustomName:'"The Mighty Wohololo"'}
+summon minecraft:evoker ~ ~2 ~ {CustomName:'"The Mighty Wohololo"'}
 
 title @s subtitle {"text":"has summoned the almighty wohololo","color":"white"}
 

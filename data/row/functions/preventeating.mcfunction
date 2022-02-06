@@ -1,2 +1,2 @@
-effect give @s hunger 5 35 true
+effect give @s hunger 10 40 true
 tell @s "No eating from your hotbar!"

@@ -26,3 +26,5 @@ execute at @s[scores={tickle=2}] run summon minecraft:endermite ~ ~ ~ {CustomNam
 execute at @s[scores={tickle=2}] run summon minecraft:endermite ~ ~ ~ {CustomName:'[{"text":"Tactical Tickle"}]',HandItems:[{id:"feather",tag:{name:Tickle},Count:1}],HandDropChances:[10.0F]}
 execute at @s[scores={tickle=2}] run summon minecraft:endermite ~ ~ ~ {CustomName:'[{"text":"Tactical Tickle"}]',HandItems:[{id:"feather",tag:{name:Tickle},Count:1}],HandDropChances:[10.0F]}
 execute at @s[scores={tickle=2}] run summon minecraft:endermite ~ ~ ~ {CustomName:'[{"text":"Tactical Tickle"}]',HandItems:[{id:"feather",tag:{name:Tickle},Count:1}],HandDropChances:[10.0F]}
+
+execute at @s run playsound minecraft:entity.player.levelup master @s ~ ~ ~

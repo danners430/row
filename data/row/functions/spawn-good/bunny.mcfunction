@@ -11,3 +11,4 @@ execute at @s[scores={bunny=2}] run summon minecraft:rabbit ^ ^2 ^3 {RabbitType:
 execute at @s[scores={bunny=3}] run summon minecraft:rabbit ^ ^2 ^3 {RabbitType:99}
 
 title @s subtitle {"text":"wanted a cute bunny","color":"white"}
+execute at @s run playsound minecraft:entity.player.levelup master @s ~ ~ ~

@@ -8,3 +8,5 @@ item replace entity @s hotbar.2 with minecraft:diamond_shovel
 item replace entity @s hotbar.3 with minecraft:diamond_axe
 item replace entity @s hotbar.4 with minecraft:white_bed
 item replace entity @s hotbar.5 with minecraft:oak_boat
+
+execute at @s run playsound minecraft:ui.toast.challenge_complete master @s ~ ~ ~

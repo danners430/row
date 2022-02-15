@@ -14,3 +14,4 @@ execute at @s[scores={seymour=3}] run summon minecraft:pig ~ ~ ~ {CustomName:'[{
 execute at @s[scores={seymour=3}] run summon minecraft:pig ~ ~ ~ {CustomName:'[{"text":"Tasty Lunch"}]',Tags:["RoW"]}
 
 title @s title {"text":"Feed me Seymore","color":"light_purple"}
+execute at @s run playsound minecraft:entity.player.levelup master @s ~ ~ ~

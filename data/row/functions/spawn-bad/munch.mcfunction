@@ -7,3 +7,5 @@ kill @e[tag=NumberMarker]
 
 execute at @s[scores={munch=1}] run summon minecraft:ravager ~ ~ ~ {CustomName:'[{"text":"Cuddles"}]',Tags:["RoW"]}
 execute at @s[scores={munch=2}] run summon minecraft:zoglin ~ ~ ~ {CustomName:'[{"text":"Cuddles"}]',Tags:["RoW"]}
+
+execute at @s run playsound minecraft:entity.player.levelup master @s ~ ~ ~

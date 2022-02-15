@@ -9,7 +9,7 @@
             "functions": [
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{Effects:[{EffectId:15}]}",
+                "tag": "{Effects:[{EffectId:15,EffectDuration:120}]}",
                 "conditions": [
                   {
                     "condition": "minecraft:random_chance",
@@ -19,7 +19,7 @@
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{Effects:[{EffectId:8}]}",
+                "tag": "{Effects:[{EffectId:8,EffectDuration:160}]}",
                 "conditions": [
                   {
                     "condition": "minecraft:random_chance",
@@ -29,7 +29,7 @@
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{Effects:[{EffectId:16}]}",
+                "tag": "{Effects:[{EffectId:16,EffectDuration:160}]}",
                 "conditions": [
                   {
                     "condition": "minecraft:random_chance",
@@ -39,7 +39,7 @@
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{Effects:[{EffectId:19}]}",
+                "tag": "{Effects:[{EffectId:19,EffectDuration:300}]}",
                 "conditions": [
                   {
                     "condition": "minecraft:random_chance",
@@ -49,7 +49,7 @@
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{Effects:[{EffectId:23}]}",
+                "tag": "{Effects:[{EffectId:23,EffectDuration:9}]}",
                 "conditions": [
                   {
                     "condition": "minecraft:random_chance",
@@ -59,7 +59,7 @@
               },
               {
                 "function": "minecraft:set_nbt",
-                "tag": "{Effects:[{EffectId:18}]}",
+                "tag": "{Effects:[{EffectId:18,EffectDuration:140}]}",
                 "conditions": [
                   {
                     "condition": "minecraft:random_chance",

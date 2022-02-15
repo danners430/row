@@ -1,0 +1,1 @@
+give @s minecraft:oak_log 34

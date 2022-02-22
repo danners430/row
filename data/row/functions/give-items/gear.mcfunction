@@ -10,3 +10,4 @@ item replace entity @s hotbar.4 with minecraft:white_bed
 item replace entity @s hotbar.5 with minecraft:oak_boat
 
 execute at @s run playsound minecraft:ui.toast.challenge_complete master @s ~ ~ ~
+title @s subtitle {"text":"geared you up","color":"light_purple"}

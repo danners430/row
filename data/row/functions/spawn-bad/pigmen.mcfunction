@@ -13,3 +13,4 @@ data modify entity @e[type=zombified_piglin,tag=notAngry,sort=nearest,limit=1] A
 tag @e[tag=notAngry,sort=nearest,limit=1] remove notAngry
 
 execute at @s run playsound minecraft:entity.player.levelup master @s ~ ~ ~
+title @s subtitle {"text":"sent some friends","color":"light_purple"}

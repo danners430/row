@@ -7,3 +7,4 @@ setblock ~5 ~5 ~ minecraft:structure_block{metadata:"",mirror:"NONE", ignoreEnti
 setblock ~5 ~4 ~ minecraft:redstone_block
 
 execute at @s run playsound minecraft:entity.player.levelup master @s ~ ~ ~
+title @s subtitle {"text":"He's Swedish, dangit!","color":"light_purple"}

@@ -9,3 +9,4 @@ execute at @s[scores={diet=1}] run item replace entity @s weapon.offhand with mi
 execute at @s[scores={diet=2}] run item replace entity @s weapon.offhand with minecraft:chorus_fruit 64
 
 execute at @s run playsound minecraft:entity.player.levelup master @s ~ ~ ~
+title @s subtitle {"text":"felt the need to be mean","color":"light_purple"}

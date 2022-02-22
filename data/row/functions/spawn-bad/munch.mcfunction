@@ -9,3 +9,4 @@ execute at @s[scores={munch=1}] run summon minecraft:ravager ^ ^3 ^ {CustomName:
 execute at @s[scores={munch=2}] run summon minecraft:zoglin ^-5 ^3 ^ {CustomName:'[{"text":"Cuddles"}]',Tags:["RoW"]}
 
 execute at @s run playsound minecraft:entity.player.levelup master @s ~ ~ ~
+title @s subtitle {"text":"sent a friend","color":"light_purple"}

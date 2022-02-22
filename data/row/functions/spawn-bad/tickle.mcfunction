@@ -9,3 +9,4 @@ execute at @s[scores={tickle=1}] run summon minecraft:silverfish ~ ~ ~ {CustomNa
 execute at @s[scores={tickle=2}] run summon minecraft:endermite ~ ~ ~ {CustomName:'[{"text":"Tactical Tickle"}]',HandItems:[{id:"feather",tag:{name:Tickle},Count:1}],HandDropChances:[10.0F],Tags:["RoW"]}
 
 execute at @s run playsound minecraft:entity.player.levelup master @s ~ ~ ~
+title @s subtitle {"text":"sent a friend","color":"light_purple"}

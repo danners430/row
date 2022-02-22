@@ -4,3 +4,4 @@ setblock ~ ~2 ~ minecraft:air
 setblock ~ ~1 ~ minecraft:air
 
 execute at @s run playsound minecraft:entity.player.levelup master @s ~ ~ ~
+title @s subtitle {"text":"sent a friend","color":"light_purple"}

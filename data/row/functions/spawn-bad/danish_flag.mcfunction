@@ -1,10 +1,150 @@
-setblock ~ ~3 ~ minecraft:anvil
-setblock ~ ~4 ~ minecraft:anvil
-setblock ~ ~5 ~ minecraft:anvil
-setblock ~ ~1 ~ minecraft:air
-setblock ~ ~2 ~ minecraft:air
-setblock ~5 ~5 ~ minecraft:structure_block{metadata:"",mirror:"NONE", ignoreEntities: 1b, powered: 0b, seed: 0L, author: "DS9Fireblade", rotation: "NONE", posX: -1, mode: "LOAD", posY: 0, sizeX :15, posZ: 0, integrity: 1.0f, showair: 0b, name: "minecraft:danish_flag", id: "minecraft:structure_block", sizeY: 9, sizeZ: 1, showboundingbox: 1b}
-setblock ~5 ~4 ~ minecraft:redstone_block
+setblock ~ ~3 ~ minecraft:anvil keep
+setblock ~ ~4 ~ minecraft:anvil keep
+setblock ~ ~5 ~ minecraft:anvil keep
+
+setblock ~-7 ~10 ~ minecraft:red_concrete keep
+setblock ~-6 ~10 ~ minecraft:red_concrete keep
+setblock ~-5 ~10 ~ minecraft:red_concrete keep
+setblock ~-4 ~10 ~ minecraft:red_concrete keep
+setblock ~-3 ~10 ~ minecraft:white_concrete keep
+setblock ~-2 ~10 ~ minecraft:red_concrete keep
+setblock ~-1 ~10 ~ minecraft:red_concrete keep
+setblock ~ ~10 ~ minecraft:red_concrete keep
+setblock ~1 ~10 ~ minecraft:red_concrete keep
+setblock ~2 ~10 ~ minecraft:red_concrete keep
+setblock ~3 ~10 ~ minecraft:red_concrete keep
+setblock ~4 ~10 ~ minecraft:red_concrete keep
+setblock ~5 ~10 ~ minecraft:red_concrete keep
+setblock ~6 ~10 ~ minecraft:red_concrete keep
+setblock ~7 ~10 ~ minecraft:red_concrete keep
+
+setblock ~-7 ~11 ~ minecraft:red_concrete keep
+setblock ~-6 ~11 ~ minecraft:red_concrete keep
+setblock ~-5 ~11 ~ minecraft:red_concrete keep
+setblock ~-4 ~11 ~ minecraft:red_concrete keep
+setblock ~-3 ~11 ~ minecraft:white_concrete keep
+setblock ~-2 ~11 ~ minecraft:red_concrete keep
+setblock ~-1 ~11 ~ minecraft:red_concrete keep
+setblock ~ ~11 ~ minecraft:red_concrete keep
+setblock ~1 ~11 ~ minecraft:red_concrete keep
+setblock ~2 ~11 ~ minecraft:red_concrete keep
+setblock ~3 ~11 ~ minecraft:red_concrete keep
+setblock ~4 ~11 ~ minecraft:red_concrete keep
+setblock ~5 ~11 ~ minecraft:red_concrete keep
+setblock ~6 ~11 ~ minecraft:red_concrete keep
+setblock ~7 ~11 ~ minecraft:red_concrete keep
+
+setblock ~-7 ~12 ~ minecraft:red_concrete keep
+setblock ~-6 ~12 ~ minecraft:red_concrete keep
+setblock ~-5 ~12 ~ minecraft:red_concrete keep
+setblock ~-4 ~12 ~ minecraft:red_concrete keep
+setblock ~-3 ~12 ~ minecraft:white_concrete keep
+setblock ~-2 ~12 ~ minecraft:red_concrete keep
+setblock ~-1 ~12 ~ minecraft:red_concrete keep
+setblock ~ ~12 ~ minecraft:red_concrete keep
+setblock ~1 ~12 ~ minecraft:red_concrete keep
+setblock ~2 ~12 ~ minecraft:red_concrete keep
+setblock ~3 ~12 ~ minecraft:red_concrete keep
+setblock ~4 ~12 ~ minecraft:red_concrete keep
+setblock ~5 ~12 ~ minecraft:red_concrete keep
+setblock ~6 ~12 ~ minecraft:red_concrete keep
+setblock ~7 ~12 ~ minecraft:red_concrete keep
+
+setblock ~-7 ~13 ~ minecraft:red_concrete keep
+setblock ~-6 ~13 ~ minecraft:red_concrete keep
+setblock ~-5 ~13 ~ minecraft:red_concrete keep
+setblock ~-4 ~13 ~ minecraft:red_concrete keep
+setblock ~-3 ~13 ~ minecraft:white_concrete keep
+setblock ~-2 ~13 ~ minecraft:red_concrete keep
+setblock ~-1 ~13 ~ minecraft:red_concrete keep
+setblock ~ ~13 ~ minecraft:red_concrete keep
+setblock ~1 ~13 ~ minecraft:red_concrete keep
+setblock ~2 ~13 ~ minecraft:red_concrete keep
+setblock ~3 ~13 ~ minecraft:red_concrete keep
+setblock ~4 ~13 ~ minecraft:red_concrete keep
+setblock ~5 ~13 ~ minecraft:red_concrete keep
+setblock ~6 ~13 ~ minecraft:red_concrete keep
+setblock ~7 ~13 ~ minecraft:red_concrete keep
+
+setblock ~-7 ~14 ~ minecraft:white_concrete keep
+setblock ~-6 ~14 ~ minecraft:white_concrete keep
+setblock ~-5 ~14 ~ minecraft:white_concrete keep
+setblock ~-4 ~14 ~ minecraft:white_concrete keep
+setblock ~-3 ~14 ~ minecraft:white_concrete keep
+setblock ~-2 ~14 ~ minecraft:white_concrete keep
+setblock ~-1 ~14 ~ minecraft:white_concrete keep
+setblock ~ ~14 ~ minecraft:white_concrete keep
+setblock ~1 ~14 ~ minecraft:white_concrete keep
+setblock ~2 ~14 ~ minecraft:white_concrete keep
+setblock ~3 ~14 ~ minecraft:white_concrete keep
+setblock ~4 ~14 ~ minecraft:white_concrete keep
+setblock ~5 ~14 ~ minecraft:white_concrete keep
+setblock ~6 ~14 ~ minecraft:white_concrete keep
+setblock ~7 ~14 ~ minecraft:white_concrete keep
+
+setblock ~-7 ~15 ~ minecraft:red_concrete keep
+setblock ~-6 ~15 ~ minecraft:red_concrete keep
+setblock ~-5 ~15 ~ minecraft:red_concrete keep
+setblock ~-4 ~15 ~ minecraft:red_concrete keep
+setblock ~-3 ~15 ~ minecraft:white_concrete keep
+setblock ~-2 ~15 ~ minecraft:red_concrete keep
+setblock ~-1 ~15 ~ minecraft:red_concrete keep
+setblock ~ ~15 ~ minecraft:red_concrete keep
+setblock ~1 ~15 ~ minecraft:red_concrete keep
+setblock ~2 ~15 ~ minecraft:red_concrete keep
+setblock ~3 ~15 ~ minecraft:red_concrete keep
+setblock ~4 ~15 ~ minecraft:red_concrete keep
+setblock ~5 ~15 ~ minecraft:red_concrete keep
+setblock ~6 ~15 ~ minecraft:red_concrete keep
+setblock ~7 ~15 ~ minecraft:red_concrete keep
+
+setblock ~-7 ~16 ~ minecraft:red_concrete keep
+setblock ~-6 ~16 ~ minecraft:red_concrete keep
+setblock ~-5 ~16 ~ minecraft:red_concrete keep
+setblock ~-4 ~16 ~ minecraft:red_concrete keep
+setblock ~-3 ~16 ~ minecraft:white_concrete keep
+setblock ~-2 ~16 ~ minecraft:red_concrete keep
+setblock ~-1 ~16 ~ minecraft:red_concrete keep
+setblock ~ ~16 ~ minecraft:red_concrete keep
+setblock ~1 ~16 ~ minecraft:red_concrete keep
+setblock ~2 ~16 ~ minecraft:red_concrete keep
+setblock ~3 ~16 ~ minecraft:red_concrete keep
+setblock ~4 ~16 ~ minecraft:red_concrete keep
+setblock ~5 ~16 ~ minecraft:red_concrete keep
+setblock ~6 ~16 ~ minecraft:red_concrete keep
+setblock ~7 ~16 ~ minecraft:red_concrete keep
+
+setblock ~-7 ~17 ~ minecraft:red_concrete keep
+setblock ~-6 ~17 ~ minecraft:red_concrete keep
+setblock ~-5 ~17 ~ minecraft:red_concrete keep
+setblock ~-4 ~17 ~ minecraft:red_concrete keep
+setblock ~-3 ~17 ~ minecraft:white_concrete keep
+setblock ~-2 ~17 ~ minecraft:red_concrete keep
+setblock ~-1 ~17 ~ minecraft:red_concrete keep
+setblock ~ ~17 ~ minecraft:red_concrete keep
+setblock ~1 ~17 ~ minecraft:red_concrete keep
+setblock ~2 ~17 ~ minecraft:red_concrete keep
+setblock ~3 ~17 ~ minecraft:red_concrete keep
+setblock ~4 ~17 ~ minecraft:red_concrete keep
+setblock ~5 ~17 ~ minecraft:red_concrete keep
+setblock ~6 ~17 ~ minecraft:red_concrete keep
+setblock ~7 ~17 ~ minecraft:red_concrete keep
+
+setblock ~-7 ~18 ~ minecraft:red_concrete keep
+setblock ~-6 ~18 ~ minecraft:red_concrete keep
+setblock ~-5 ~18 ~ minecraft:red_concrete keep
+setblock ~-4 ~18 ~ minecraft:red_concrete keep
+setblock ~-3 ~18 ~ minecraft:white_concrete keep
+setblock ~-2 ~18 ~ minecraft:red_concrete keep
+setblock ~-1 ~18 ~ minecraft:red_concrete keep
+setblock ~ ~18 ~ minecraft:red_concrete keep
+setblock ~1 ~18 ~ minecraft:red_concrete keep
+setblock ~2 ~18 ~ minecraft:red_concrete keep
+setblock ~3 ~18 ~ minecraft:red_concrete keep
+setblock ~4 ~18 ~ minecraft:red_concrete keep
+setblock ~5 ~18 ~ minecraft:red_concrete keep
+setblock ~6 ~18 ~ minecraft:red_concrete keep
+setblock ~7 ~18 ~ minecraft:red_concrete keep
 
 execute at @s run playsound minecraft:entity.player.levelup master @s ~ ~ ~
 title @s subtitle {"text":"He's Swedish, dangit!","color":"light_purple"}
